@@ -1,0 +1,20 @@
+Ghanem
+-----------------------
+Make the end point more clear 
+
+make the background move with the player 
+
+add text in the levels as a guide 
+-----------------------
+
+Al Zemeity 
+-----------------------
+Add more Levels 
+
+bahbour
+-----------------------
+Make background more dynamic
+
+Zoom on player at level start
+
+move cam up 
